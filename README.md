@@ -12,4 +12,6 @@
 
 - [Linux Command Line Basics](/Test_01/Test_1_1.png)
 - [Configuring Linux Web Servers](/Test_01/Test_1_2.png)
-- [Configuring Linux Web Servers](/Test_01/Test_1_3.png)
+- [Networking for Web Developers](/Test_01/Test_1_3.png)
+
+These courses were full of new information for me. Also they stimulated to search more details about described tools. For example I founded out that virtualisation technology was disabled initially in my HP laptop BIOS.
