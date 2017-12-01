@@ -28,3 +28,7 @@ Possability to manage cashing and freshness from server and client sides was new
 
 - [What is Version Control](/Test_02/Test_2_1.png)
 - [GitHub & Collaboration](/Test_02/Test_2_2.png)
+
+# Task 3
+
+- [Intro to HTML & CSS](/Test_03/Test_3.png)
