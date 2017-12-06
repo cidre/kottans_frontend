@@ -36,3 +36,7 @@ Possability to manage cashing and freshness from server and client sides was new
 # Task 4
 
 - [Responsive Web Design Fundamentals](/Test_04/Test_4.png)
+
+# Task 5
+
+- [Intro to JS](/Test_05/Test_5.png)
