@@ -40,3 +40,9 @@ Possability to manage cashing and freshness from server and client sides was new
 # Task 5
 
 - [Intro to JS](/Test_05/Test_5.png)
+
+# Task 6
+
+- [Object Oriented JS](/Test_06/Test_6.png)
+I was overwhelmed by some lessons due to unusual theme explanation for example about parameter *this*. :confused: It was necessary to come to them back several times. 
+[Final Project](https://cidre.github.io/frontend-nanodegree-arcade-game/)
