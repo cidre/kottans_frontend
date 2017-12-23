@@ -48,3 +48,9 @@ Possability to manage cashing and freshness from server and client sides was new
 I was overwhelmed by some lessons due to unusual theme explanation for example about parameter *this*. :confused: It was necessary to come to them back several times. :satisfied:
 
 [Final Project](https://cidre.github.io/frontend-nanodegree-arcade-game/)
+
+# Task 7
+
+- [Offline Web Applications](/Test_07/Test_7.png)
+
+This course was not easy to me mostly due to necessarity to use chaines of promises in quizes. But it was interesting because it is really actual technology now. For example, two new web browsers, Edge and Safari, have just become to support technology of service workers during this week.
