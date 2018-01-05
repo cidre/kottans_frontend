@@ -54,3 +54,10 @@ I was overwhelmed by some lessons due to unusual theme explanation for example a
 - [Offline Web Applications](/Test_07/Test_7.png)
 
 This course was not easy to me mostly due to necessarity to use chaines of promises in quizes. But it was interesting because it is really actual technology now. For example, two new web browsers, Edge and Safari, have just become to support technology of service workers during this week.
+
+# Task 8
+
+Memory Pair Game
+
+-[Demo](https://cidre.github.io/memory-pair-game/)
+-[Repo](https://github.com/cidre/memory-pair-game)
