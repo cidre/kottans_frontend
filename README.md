@@ -59,5 +59,5 @@ This course was not easy to me mostly due to necessarity to use chaines of promi
 
 Memory Pair Game
 
--[Demo](https://cidre.github.io/memory-pair-game/)
--[Repo](https://github.com/cidre/memory-pair-game)
+- [Demo](https://cidre.github.io/memory-pair-game/)
+- [Repo](https://github.com/cidre/memory-pair-game)
